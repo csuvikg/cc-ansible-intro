@@ -1,0 +1,9 @@
+# Secrets
+.envrc
+key
+key.pub
+
+# Terraform
+.terraform/
+.terraform*
+terraform*
